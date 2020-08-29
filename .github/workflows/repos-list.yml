@@ -25,7 +25,6 @@ jobs:
       uses: unity-game-framework-actions/repos-list@master
       with:
         token: ${{ secrets.userToken }}
-        user: unity-game-framework-actions
         config: ${{ steps.config.outputs.list }}
         visibility: public
         output: docs/repositories.md

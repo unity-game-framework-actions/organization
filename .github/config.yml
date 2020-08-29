@@ -68,12 +68,12 @@ list:
   #   description: Description of group.
   #   topics: List of comma separated topic names used to determine whether to include repository in group. (Example: 'preview,legacy'.)
   groups:
-  - name: Main
-    description: Organization main repositories.
-    topics: main
   - name: Featured
     description: Projects featured to be used.
     topics: featured
+  - name: Main
+    description: Organization main repositories.
+    topics: main
   - name: Stable
     description: Currently stable projects.
     topics: stable
@@ -83,6 +83,9 @@ list:
   - name: Experimental
     description: Draft experimental projects.
     topics: experimental
+  - name: Deprecated
+    description: Not recommended to use deprecated projects.
+    topics: deprecated
   - name: Tests
     description: Raw test projects.
     topics: tests
