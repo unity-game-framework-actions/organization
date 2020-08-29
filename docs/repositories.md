@@ -6,7 +6,7 @@ List of available repositories.
 
 Organization main repositories.
 
-- [unity-game-framework-actions](https://github.com/unity-game-framework-actions/unity-game-framework-actions)   
+- [organization](https://github.com/unity-game-framework-actions/organization)   
   Organization repository.
 
 ## Preview
