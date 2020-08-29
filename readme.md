@@ -1,11 +1,10 @@
-# unity-game-framework-actions
+# organization
 
-Unity Game Framework Actions
+Organization repository.
 
 ## Description
 
-This is a **Organization** repository for the **Unity Game Framework Actions** organization,
-to manage **Issues**, **Wiki** and **Workflows**, etc. at organization level.
+This is a **Organization** repository to manage **Issues**, **Wiki** and **Workflows**, etc. at organization level.
 
 ## About
 
