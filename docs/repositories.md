@@ -6,6 +6,8 @@ List of available repositories.
 
 Organization main repositories.
 
+- [draft](https://github.com/unity-game-framework-actions/draft) `Template`  
+  Action draft repository.
 - [organization](https://github.com/unity-game-framework-actions/organization)   
   Organization repository.
 
