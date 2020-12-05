@@ -15,23 +15,23 @@ Organization main repositories.
 
 Work in progress preview projects.
 
-- [file-access](https://github.com/unity-game-framework-actions/file-access)   
+- [file-access](https://github.com/unity-game-framework-actions/file-access) `0.1.0`   
   Read or update file.
-- [issue-branch](https://github.com/unity-game-framework-actions/issue-branch)   
+- [issue-branch](https://github.com/unity-game-framework-actions/issue-branch) `0.1.0`   
   Creates branch based on issue.
-- [issue-pull-request](https://github.com/unity-game-framework-actions/issue-pull-request)   
+- [issue-pull-request](https://github.com/unity-game-framework-actions/issue-pull-request) `0.2.0`   
   Creates pull request based on issue.
-- [labels-update](https://github.com/unity-game-framework-actions/labels-update)   
+- [labels-update](https://github.com/unity-game-framework-actions/labels-update) `0.1.0`   
   Updates repository labels.
-- [milestone-changelog](https://github.com/unity-game-framework-actions/milestone-changelog)   
+- [milestone-changelog](https://github.com/unity-game-framework-actions/milestone-changelog) `0.2.0`   
   Creates changelog based on milestone.
-- [package-readme](https://github.com/unity-game-framework-actions/package-readme)   
+- [package-readme](https://github.com/unity-game-framework-actions/package-readme) `0.1.0`   
   Creates package readme.
-- [release-update](https://github.com/unity-game-framework-actions/release-update)   
+- [release-update](https://github.com/unity-game-framework-actions/release-update) `0.1.0`   
   Updates release.
-- [releases-changelog](https://github.com/unity-game-framework-actions/releases-changelog)   
+- [releases-changelog](https://github.com/unity-game-framework-actions/releases-changelog) `0.2.0`   
   Creates changelog based on all releases.
-- [repos-list](https://github.com/unity-game-framework-actions/repos-list)   
+- [repos-list](https://github.com/unity-game-framework-actions/repos-list) `0.3.0`   
   Creates repositories list.
 
 ## Experimental
