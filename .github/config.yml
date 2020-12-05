@@ -74,9 +74,9 @@ list:
   - name: Main
     description: Organization main repositories.
     topics: main
-  - name: Stable
-    description: Currently stable projects.
-    topics: stable
+  - name: Active
+    description: Current actively developed projects.
+    topics: active
   - name: Preview
     description: Work in progress preview projects.
     topics: preview
