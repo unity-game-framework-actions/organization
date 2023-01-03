@@ -15,23 +15,23 @@ Organization main repositories.
 
 Current actively developed projects.
 
-- [file-access](https://github.com/unity-game-framework-actions/file-access) `0.1.0`   
+- [file-access](https://github.com/unity-game-framework-actions/file-access) `1.0.0`   
   Read or update file.
-- [issue-branch](https://github.com/unity-game-framework-actions/issue-branch) `0.1.0`   
+- [issue-branch](https://github.com/unity-game-framework-actions/issue-branch) `1.0.0`   
   Creates branch based on issue.
-- [issue-pull-request](https://github.com/unity-game-framework-actions/issue-pull-request) `0.2.0`   
+- [issue-pull-request](https://github.com/unity-game-framework-actions/issue-pull-request) `1.0.0`   
   Creates pull request based on issue.
-- [labels-update](https://github.com/unity-game-framework-actions/labels-update) `0.1.0`   
+- [labels-update](https://github.com/unity-game-framework-actions/labels-update) `1.0.0`   
   Updates repository labels.
-- [milestone-changelog](https://github.com/unity-game-framework-actions/milestone-changelog) `0.2.0`   
+- [milestone-changelog](https://github.com/unity-game-framework-actions/milestone-changelog) `1.0.0`   
   Creates changelog based on milestone.
-- [milestone-release](https://github.com/unity-game-framework-actions/milestone-release)   
+- [milestone-release](https://github.com/unity-game-framework-actions/milestone-release) `1.0.0`   
   Update and create release milestone.
-- [package-readme](https://github.com/unity-game-framework-actions/package-readme) `0.1.0`   
+- [package-readme](https://github.com/unity-game-framework-actions/package-readme) `1.0.0`   
   Creates package readme.
-- [releases-changelog](https://github.com/unity-game-framework-actions/releases-changelog) `0.2.0`   
+- [releases-changelog](https://github.com/unity-game-framework-actions/releases-changelog) `1.0.0`   
   Creates changelog based on all releases.
-- [repos-list](https://github.com/unity-game-framework-actions/repos-list) `0.3.1`   
+- [repos-list](https://github.com/unity-game-framework-actions/repos-list) `1.0.0`   
   Creates repositories list.
 
 ## Deprecated
